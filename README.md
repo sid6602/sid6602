@@ -79,8 +79,8 @@
   [![Siddhi's github activity graph](https://activity-graph.herokuapp.com/graph?username=sid6602&theme=xcode)](https://git.io/sid6602)
 
 <p align="left">
-  <img width="48%" height="185" src="https://github-readme-stats.vercel.app/api/top-langs?username=sid6602&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sid6602" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sid6602&show_icons=true&locale=en&theme=tokyonight" alt="sid6602" />
+  <img width="47%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=sid6602&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sid6602" />
+  <img width="47%" height="180" src="https://github-readme-stats.vercel.app/api?username=sid6602&show_icons=true&locale=en&theme=tokyonight" alt="sid6602" />
 </p>
 
 
