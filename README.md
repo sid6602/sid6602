@@ -26,7 +26,7 @@
 
 ##
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and ML**
 - 🖥️ Passionate about Computer Science.
 - 💬 Ask me about **C++, DS/Algo, Laravel, Mongodb, web development**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝:   It doesn't work- why?  💻   It works- why?
