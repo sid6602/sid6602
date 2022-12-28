@@ -12,18 +12,14 @@
 <h3 align="center">A Girl trying to Figure-Out Stuff!!💻</h3>
 <br>
 
-<p align="right">  
-  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-</p>
-<br>
-
-
-<p align="left">  
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+ 
+<div align="left">  
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=sid6602&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/> 
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/sid6602?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/sid6602?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
-</p>
-
+</div>
+ 
 ##
 
 - 🌱 I’m currently learning **Python and ML**
